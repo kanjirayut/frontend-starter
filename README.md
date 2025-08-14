@@ -1,12 +1,4 @@
-<!-- --------------------------------------------------------------
-  aksorn-starter-experimental
-  -------------------------------------------------------------- -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Aksorn Starter-ED1C24?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white" alt="Aksorn Starter badge">
-</p>
-
-> **A unified, battle-tested Next.js project template for Aksorn.**  
+**A unified, battle-tested Next.js project template for Aksorn.**  
 > Clone it, fork it, or copy-paste it—either way, you start every project with the same clean architecture and sensible defaults.
 
 ---
